@@ -1,0 +1,23 @@
+{
+  "model_type": "GradientBoostingClassifier",
+  "optimal_threshold": 0.55,
+  "test_accuracy": 0.96,
+  "test_recall": 0.71,
+  "test_precision": 0.93,
+  "test_f1": 0.804,
+  "roc_auc": 0.9774940855030536,
+  "features_used": [
+    "age",
+    "bmi",
+    "HbA1c_level",
+    "blood_glucose_level",
+    "gender_Male",
+    "gender_Other",
+    "smoking_history_current",
+    "smoking_history_ever",
+    "smoking_history_former",
+    "smoking_history_never",
+    "smoking_history_not current"
+  ],
+  "training_date": "2025-09-13"
+}
